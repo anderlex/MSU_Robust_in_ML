@@ -1,1 +1,1 @@
-# MSU_Robust_in_ML
+# This course about robust models in machine learning
